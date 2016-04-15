@@ -211,22 +211,22 @@ function create_config( )
     "invite",
     "spams",
     },
-    sudo_users = {192916039,208898661,188108658},--Sudo users
+    sudo_users = {134618808,179045182,211839251},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Pride Bot v1 
-An advance Administration bot based on Teleseed Plugins
+    about_text = [[nvpteam Bot v1 
+An advance Administration bot based on nvp Plugins
 
-https://github.com/MRAHS/PRIDE-bot
+https://github.com/amirf2020/mamadiraner
 
 Admin:
-@O_o_i_o_O
+@alfrodhotak
 
 Special thanks to :
-@Mr_Ah_S & @SBSS_Team
+@alfroshotakS & @nova_official
 
-Our channel :
-@Pride_Team
+Our bot :
+@tele_nero
 ]],
     help_text_realm = [[
 Realm Commands:
