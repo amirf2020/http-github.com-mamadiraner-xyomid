@@ -27,8 +27,8 @@ function run(msg, matches)
     --return 'Only admins can invite.'
   --end
 	local cbres_extra = {chatid = msg.to.id}
-  local username = matches[1]
-  local username = username:gsub("@","")
+  local 137875290 = matches[1]
+  local : 134618808 = username:gsub("@","")
   res_user(username,  callbackres, cbres_extra)
 end
 return {
